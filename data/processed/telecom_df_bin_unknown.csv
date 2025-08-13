@@ -1,0 +1,225 @@
+customerID,Churn,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Cuentas_Diarias
+0047-ZHDTW,,Female,0,0,0,11,1,1,Fiber optic,1,0,0,0,0,0,Month-to-month,1,Bank transfer (automatic),79.0,929.3,2.6333333333333333
+0120-YZLQA,,Male,0,0,0,71,1,0,No,0,0,0,0,0,0,Two year,1,Credit card (automatic),19.9,1355.1,0.6633333333333333
+0154-QYHJU,,Male,0,0,0,29,1,0,DSL,1,1,0,1,0,0,One year,1,Electronic check,58.75,1696.2,1.9583333333333333
+0162-RZGMZ,,Female,1,0,0,5,1,0,DSL,1,1,0,1,0,0,Month-to-month,0,Credit card (automatic),59.9,287.85,1.9966666666666666
+0274-VVQOQ,,Male,1,1,0,65,1,1,Fiber optic,0,1,1,0,1,1,One year,1,Bank transfer (automatic),103.15,6792.45,3.4383333333333335
+0328-IBUPK,,Female,0,1,1,51,0,0,DSL,1,0,0,1,0,0,Two year,0,Bank transfer (automatic),34.2,1782.0,1.1400000000000001
+0448-YZNZE,,Male,1,1,0,27,1,1,Fiber optic,0,1,1,0,0,1,Month-to-month,1,Electronic check,95.55,2510.2,3.185
+0510-EXSMQ,,Female,0,0,0,9,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,0,Electronic check,69.05,651.5,2.3016666666666667
+0530-HBKHZ,,Female,1,1,0,1,0,0,DSL,0,0,0,0,0,0,Month-to-month,1,Electronic check,24.8,24.8,0.8266666666666667
+0534-JRNIG,,Female,0,0,0,6,1,1,Fiber optic,0,0,0,0,1,1,Month-to-month,1,Bank transfer (automatic),93.55,536.4,3.118333333333333
+0542-YUDZL,,Female,0,1,1,14,1,1,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,25.55,372.45,0.8516666666666667
+0548-BCTNE,,Male,0,0,0,48,1,1,Fiber optic,0,1,1,0,1,1,One year,1,Credit card (automatic),106.1,5082.8,3.5366666666666666
+0567-DLARH,,Female,0,1,1,30,0,0,DSL,0,0,0,1,1,1,Month-to-month,0,Credit card (automatic),51.2,1561.5,1.7066666666666668
+0622-OCUQY,,Male,0,0,0,44,1,0,No,0,0,0,0,0,0,Two year,0,Mailed check,20.05,845.25,0.6683333333333333
+0639-QDHAY,,Female,0,0,0,22,1,0,Fiber optic,1,0,0,1,0,1,Month-to-month,1,Electronic check,89.05,1886.25,2.9683333333333333
+0699-XSLUE,,Male,0,1,1,71,1,1,DSL,1,0,1,1,1,1,One year,0,Electronic check,85.45,6300.85,2.8483333333333336
+0769-WXZYU,,Male,0,0,0,34,1,1,No,0,0,0,0,0,0,Two year,0,Bank transfer (automatic),26.1,980.35,0.87
+0840-JCCUW,,Female,0,1,0,2,1,0,DSL,0,0,0,0,0,0,Month-to-month,1,Electronic check,45.0,89.75,1.5
+0910-AJOHQ,,Female,0,0,0,64,1,1,Fiber optic,1,1,1,1,1,1,Two year,1,Bank transfer (automatic),115.1,7334.05,3.8366666666666664
+0950-TZGED,,Male,0,0,0,56,1,1,No,0,0,0,0,0,0,Two year,1,Bank transfer (automatic),25.95,1444.05,0.865
+0968-FTNYZ,,Female,0,0,1,13,1,0,DSL,1,1,0,0,0,0,Month-to-month,1,Electronic check,56.0,764.55,1.8666666666666667
+1058-CIYUA,,Female,1,1,0,52,1,1,Fiber optic,0,1,1,0,1,1,One year,1,Electronic check,106.5,5621.85,3.55
+1119-VJAQV,,Male,1,1,0,6,1,1,Fiber optic,0,0,1,0,0,0,Month-to-month,1,Electronic check,80.8,457.1,2.6933333333333334
+1195-UQFHQ,,Male,0,0,0,61,1,1,Fiber optic,1,0,1,0,1,1,One year,0,Electronic check,104.0,6363.45,3.466666666666667
+1232-TPUYA,,Female,1,1,0,1,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,69.55,69.55,2.3183333333333334
+1235-GPKNS,,Female,0,0,1,5,1,0,DSL,0,0,0,0,0,0,Month-to-month,0,Mailed check,46.0,221.7,1.5333333333333334
+1268-VSSGL,,Male,0,1,0,4,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,0,Electronic check,70.5,294.2,2.35
+1289-RKJJR,,Male,0,0,0,28,1,0,Fiber optic,0,0,1,1,0,1,Month-to-month,0,Electronic check,91.0,2626.15,3.033333333333333
+1314-HQHAL,,Male,0,0,0,58,1,0,No,0,0,0,0,0,0,Two year,0,Credit card (automatic),20.3,1131.5,0.6766666666666666
+1370-AQYEM,,Male,0,1,1,5,1,0,Fiber optic,1,0,1,0,0,1,Month-to-month,1,Mailed check,90.35,434.5,3.0116666666666663
+1395-QOUWC,,Female,0,1,1,22,1,0,DSL,0,1,0,0,1,1,One year,1,Bank transfer (automatic),69.5,1498.2,2.316666666666667
+1427-GOPMO,,Male,0,0,0,57,1,1,Fiber optic,0,0,0,0,1,0,One year,1,Electronic check,86.9,4939.25,2.896666666666667
+1428-QPOOL,,Female,0,1,1,65,1,1,DSL,1,1,0,1,1,1,Two year,1,Bank transfer (automatic),82.5,5215.1,2.75
+1645-EFCGT,,Male,0,1,1,72,1,0,No,0,0,0,0,0,0,Two year,0,Credit card (automatic),19.4,1363.25,0.6466666666666666
+1676-BZZYV,,Male,0,1,1,55,1,0,No,0,0,0,0,0,0,One year,0,Mailed check,19.5,1026.35,0.65
+1736-FCXMC,,Male,0,0,0,56,1,1,Fiber optic,0,1,0,1,0,1,Month-to-month,1,Electronic check,94.45,5124.6,3.1483333333333334
+1766-UMRDB,,Male,1,0,0,34,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,0,Credit card (automatic),69.15,2275.1,2.305
+1867-RAWZK,,Male,0,1,1,19,1,1,Fiber optic,0,0,1,1,1,1,Month-to-month,0,Electronic check,103.3,2012.7,3.4433333333333334
+1972-RSMOV,,Female,0,1,0,40,1,0,No,0,0,0,0,0,0,Two year,0,Mailed check,19.1,780.1,0.6366666666666667
+1975-FCJTE,,Female,0,1,0,45,1,1,No,0,0,0,0,0,0,Two year,0,Mailed check,25.5,1121.05,0.85
+2183-ZULVZ,,Female,0,1,1,70,1,1,Fiber optic,1,1,1,1,1,1,Two year,1,Credit card (automatic),115.15,8250.0,3.8383333333333334
+2353-VPYNS,,Male,1,0,0,1,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,73.65,73.65,2.455
+2424-GXJQO,,Female,0,0,0,3,1,0,DSL,0,0,1,0,1,0,Month-to-month,0,Electronic check,57.55,161.45,1.9183333333333332
+2508-QJJFP,,Male,0,0,1,47,1,0,No,0,0,0,0,0,0,One year,0,Credit card (automatic),20.55,1013.05,0.685
+2550-ZQZPP,,Male,1,1,0,7,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,75.4,533.05,2.5133333333333336
+2575-EAMDV,,Female,0,0,0,35,1,0,Fiber optic,0,0,1,1,1,1,One year,1,Electronic check,99.25,3532.0,3.308333333333333
+2599-GTQWQ,,Male,1,0,0,39,1,1,Fiber optic,0,0,0,0,1,1,Month-to-month,1,Bank transfer (automatic),95.65,3759.05,3.1883333333333335
+2642-NQSNM,,Female,0,0,0,8,1,0,DSL,1,0,0,1,0,0,One year,0,Bank transfer (automatic),54.25,447.75,1.8083333333333333
+2672-SXZJB,,Female,0,1,1,56,1,0,No,0,0,0,0,0,0,Two year,1,Credit card (automatic),19.8,1119.9,0.66
+2855-QOWGP,,Male,0,0,1,34,1,1,Fiber optic,1,1,0,0,1,1,One year,1,Electronic check,103.8,3470.8,3.46
+2956-MHLSX,,Male,0,0,0,1,1,0,DSL,0,1,0,0,0,0,Month-to-month,0,Electronic check,50.8,50.8,1.6933333333333331
+2991-OKAXW,,Male,0,0,0,44,0,0,DSL,0,1,1,0,1,1,One year,1,Mailed check,53.95,2375.4,1.7983333333333333
+3007-KYUNZ,,Female,0,1,1,19,1,1,No,0,0,0,0,0,0,Two year,0,Mailed check,25.6,485.9,0.8533333333333334
+3012-OALWM,,Male,0,0,0,9,1,0,Fiber optic,1,0,0,0,0,0,Month-to-month,0,Electronic check,75.6,661.55,2.52
+3018-DZHFE,,Male,0,0,0,1,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,19.55,19.55,0.6516666666666667
+3078-NDXXG,,Female,0,0,0,44,1,1,DSL,0,0,0,0,0,0,Month-to-month,1,Mailed check,50.15,2139.1,1.6716666666666666
+3134-JCVOE,,Female,0,0,0,3,0,0,DSL,0,1,0,0,0,0,Month-to-month,0,Mailed check,29.2,98.5,0.9733333333333333
+3161-PJNCN,,Female,1,1,0,67,1,0,No,0,0,0,0,0,0,Two year,1,Bank transfer (automatic),20.05,1263.05,0.6683333333333333
+3337-EUOON,,Male,0,1,1,69,1,1,No,0,0,0,0,0,0,Two year,1,Bank transfer (automatic),26.0,1796.55,0.8666666666666667
+3345-CSCIA,,Male,0,0,0,68,1,1,DSL,1,1,1,0,0,1,One year,1,Credit card (automatic),76.9,5023.0,2.5633333333333335
+3394-UQYIB,,Female,1,1,0,2,1,0,DSL,0,1,0,0,0,0,Month-to-month,0,Credit card (automatic),50.15,115.1,1.6716666666666666
+3443-KUJWU,,Male,0,1,0,47,1,1,Fiber optic,0,1,1,0,1,1,Month-to-month,1,Electronic check,104.1,5135.15,3.4699999999999998
+3485-REZCX,,Male,0,0,0,64,1,1,Fiber optic,1,1,0,0,0,0,One year,1,Credit card (automatic),84.3,5289.05,2.81
+3590-DWSLF,,Female,0,0,0,70,1,1,Fiber optic,1,1,1,1,1,1,One year,0,Credit card (automatic),115.55,8127.6,3.8516666666666666
+3601-UTZXO,,Male,0,1,1,41,1,0,No,0,0,0,0,0,0,One year,0,Bank transfer (automatic),19.5,798.2,0.65
+3643-VBLHT,,Male,0,0,1,29,0,0,DSL,1,1,1,1,0,0,Month-to-month,1,Mailed check,45.0,1242.45,1.5
+3660-ENEST,,Female,1,1,0,72,1,1,DSL,1,1,1,0,1,1,Two year,1,Credit card (automatic),84.1,6129.65,2.8033333333333332
+3680-ISIKN,,Male,0,0,0,22,1,1,No,0,0,0,0,0,0,Two year,0,Mailed check,25.25,566.5,0.8416666666666667
+3728-SDRGN,,Male,0,0,1,1,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,19.25,19.25,0.6416666666666667
+3775-TDLCC,,Male,0,1,1,67,1,1,Fiber optic,0,1,1,0,0,0,One year,0,Electronic check,87.4,5918.8,2.9133333333333336
+3781-LIPVO,,Female,0,1,0,7,1,1,Fiber optic,0,0,0,0,1,0,Month-to-month,1,Electronic check,86.5,582.5,2.8833333333333333
+3803-QHPWH,,Female,1,1,0,29,0,0,DSL,1,0,1,0,0,1,Month-to-month,1,Electronic check,45.0,1228.65,1.5
+3995-RWMUH,,Male,0,0,0,7,1,0,DSL,0,0,0,0,0,0,Month-to-month,1,Bank transfer (automatic),44.65,322.5,1.4883333333333333
+4047-GGUUG,,Female,0,0,0,12,1,0,No,0,0,0,0,0,0,Month-to-month,0,Bank transfer (automatic),19.45,227.45,0.6483333333333333
+4060-BTPXO,,Female,0,1,0,67,1,1,Fiber optic,0,1,1,0,1,1,One year,1,Bank transfer (automatic),105.7,6816.95,3.5233333333333334
+4087-ULYNQ,,Female,0,1,1,47,1,0,No,0,0,0,0,0,0,Two year,0,Credit card (automatic),20.25,873.4,0.675
+4102-BEFEK,,Male,0,0,0,62,1,0,No,0,0,0,0,0,0,Two year,1,Credit card (automatic),20.05,1201.65,0.6683333333333333
+4123-VPQTQ,,Female,0,0,0,3,1,0,No,0,0,0,0,0,0,Month-to-month,0,Electronic check,19.55,61.05,0.6516666666666667
+4140-TOILV,,Male,0,1,0,22,1,0,Fiber optic,0,0,1,0,1,0,Month-to-month,1,Bank transfer (automatic),87.0,1850.65,2.9
+4250-QVQRU,,Male,0,0,1,2,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,19.25,48.35,0.6416666666666667
+4268-YNAHK,,Male,0,0,1,33,1,0,No,0,0,0,0,0,0,One year,1,Mailed check,20.15,682.15,0.6716666666666666
+4290-UZSKY,,Female,0,0,0,4,1,0,Fiber optic,0,0,0,0,1,0,Month-to-month,1,Electronic check,79.0,303.15,2.6333333333333333
+4438-GGYWL,,Male,0,1,1,62,1,1,Fiber optic,1,1,1,1,1,1,Two year,0,Bank transfer (automatic),115.55,7159.05,3.8516666666666666
+4468-MLDTH,,Male,0,0,0,4,1,0,DSL,0,0,0,1,1,0,Month-to-month,1,Electronic check,61.3,249.4,2.0433333333333334
+4471-OIIDG,,Female,0,0,0,10,1,1,Fiber optic,0,0,1,0,1,1,Month-to-month,1,Electronic check,100.6,1060.2,3.353333333333333
+4477-QAXWD,,Male,0,1,0,25,0,0,DSL,0,0,1,0,1,0,One year,1,Credit card (automatic),38.1,970.4,1.27
+4498-WRAJX,,Male,1,1,1,71,1,1,Fiber optic,1,1,0,0,1,1,Month-to-month,1,Credit card (automatic),105.1,7548.1,3.503333333333333
+4536-IPCKQ,,Male,0,0,0,56,1,1,Fiber optic,0,1,0,0,1,1,Month-to-month,0,Electronic check,98.6,5581.05,3.2866666666666666
+4555-YIGPD,,Female,0,0,1,4,0,0,DSL,1,1,1,0,1,1,Month-to-month,1,Mailed check,57.2,223.75,1.9066666666666667
+4585-XOMAN,,Male,1,1,0,34,1,0,Fiber optic,0,0,1,0,1,0,Month-to-month,1,Credit card (automatic),85.2,2874.45,2.8400000000000003
+4603-FDONU,,Female,0,1,1,32,0,0,DSL,1,1,0,0,0,0,Month-to-month,1,Electronic check,35.15,1051.05,1.1716666666666666
+4610-WUVVT,,Male,1,1,1,46,1,1,Fiber optic,1,1,1,0,1,0,Month-to-month,1,Electronic check,100.7,4541.2,3.356666666666667
+4626-JYHAY,,Female,1,0,0,20,1,1,Fiber optic,0,1,1,0,0,1,Month-to-month,1,Electronic check,94.1,1782.4,3.1366666666666663
+4674-LRJIC,,Female,0,0,0,1,1,0,Fiber optic,0,0,1,0,1,1,Month-to-month,0,Electronic check,94.4,94.4,3.146666666666667
+4691-NEWPF,,Male,0,1,0,11,1,0,DSL,0,0,0,0,0,0,Month-to-month,1,Bank transfer (automatic),45.9,521.9,1.53
+4762-XTUEC,,Female,0,1,0,67,1,1,Fiber optic,0,1,1,1,1,1,One year,1,Credit card (automatic),109.7,7344.45,3.6566666666666667
+4805-ZRGEZ,,Male,1,1,0,61,1,1,DSL,0,1,0,0,0,1,One year,0,Bank transfer (automatic),64.05,3902.6,2.135
+4878-SMQBX,,Female,0,0,0,2,1,0,No,0,0,0,0,0,0,Month-to-month,0,Bank transfer (automatic),18.75,53.15,0.625
+4946-VTTND,,Male,0,1,0,8,1,0,Fiber optic,1,0,0,0,0,0,Month-to-month,1,Mailed check,75.0,658.1,2.5
+4988-BNLTU,,Male,0,0,0,30,1,1,Fiber optic,1,0,0,0,1,1,Month-to-month,1,Bank transfer (automatic),100.4,2936.25,3.3466666666666667
+4988-RZJHG,,Female,0,1,0,8,1,1,Fiber optic,0,0,0,0,0,1,Month-to-month,1,Electronic check,84.9,764.95,2.83
+5083-QPLHM,,Male,0,1,1,14,1,0,DSL,1,1,0,0,1,0,Month-to-month,1,Electronic check,65.45,937.6,2.1816666666666666
+5134-RCXTN,,Female,1,1,0,50,1,1,No,0,0,0,0,0,0,One year,0,Electronic check,25.2,1306.3,0.84
+5206-YQKMK,,Female,0,0,0,25,1,1,No,0,0,0,0,0,0,Two year,0,Credit card (automatic),24.75,692.1,0.825
+5235-XATIX,,Male,0,0,1,22,1,0,Fiber optic,0,1,1,0,1,0,Month-to-month,1,Electronic check,89.4,2001.5,2.98
+5243-NIEIT,,Male,0,1,0,14,1,1,Fiber optic,0,0,0,0,0,1,Month-to-month,1,Electronic check,85.15,1139.2,2.8383333333333334
+5264-IWHMU,,Male,0,0,0,1,1,0,DSL,0,0,0,1,0,0,Month-to-month,0,Mailed check,49.05,49.05,1.635
+5285-TWCNP,,Female,1,0,0,70,1,1,DSL,0,1,1,1,1,0,Two year,1,Bank transfer (automatic),75.5,5212.65,2.5166666666666666
+5332-UJJBL,,Male,0,0,0,4,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,19.0,73.45,0.6333333333333333
+5365-FJKGQ,,Male,0,0,0,25,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,0,Mailed check,70.95,1767.35,2.365
+5425-GQTTT,,Male,0,1,1,68,1,1,No,0,0,0,0,0,0,Two year,1,Bank transfer (automatic),24.0,1664.3,0.8
+5499-MBERC,,Male,0,0,0,3,0,0,DSL,0,1,0,0,0,0,Month-to-month,1,Electronic check,29.6,79.45,0.9866666666666667
+5570-ZGMEU,,Male,0,1,1,72,1,0,Fiber optic,1,0,1,1,1,1,Two year,1,Credit card (automatic),104.9,7559.55,3.496666666666667
+5585-WEFDD,,Female,0,1,1,4,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,20.35,76.35,0.6783333333333333
+5653-ITXJK,,Female,0,1,0,31,1,0,DSL,0,0,0,1,0,0,Month-to-month,1,Mailed check,49.2,1498.55,1.6400000000000001
+5761-BYYZA,,Female,0,1,1,38,1,0,No,0,0,0,0,0,0,One year,0,Credit card (automatic),19.6,763.1,0.6533333333333334
+5766-RLNAM,,Male,0,1,0,72,1,1,Fiber optic,1,1,1,1,1,1,Two year,1,Electronic check,115.55,8425.3,3.8516666666666666
+5888-TLMCL,,Female,0,1,1,69,0,0,DSL,0,1,1,0,1,1,Two year,1,Credit card (automatic),54.95,3772.5,1.8316666666666668
+5943-PWAPA,,Female,0,1,0,53,1,0,Fiber optic,0,0,0,1,1,1,One year,1,Electronic check,93.45,4872.2,3.115
+6016-EJGNT,,Female,0,1,1,48,1,1,Fiber optic,1,1,0,0,1,1,One year,1,Credit card (automatic),103.25,5037.55,3.441666666666667
+6016-QSKVI,,Male,0,0,0,4,1,0,Fiber optic,1,1,0,1,0,1,Month-to-month,1,Mailed check,94.9,360.55,3.1633333333333336
+6022-MXOMF,,Female,1,0,0,1,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,74.2,74.2,2.4733333333333336
+6037-WPJRP,,Female,0,0,0,13,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Mailed check,75.0,999.45,2.5
+6039-RVSJV,,Female,0,0,0,1,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,19.85,19.85,0.6616666666666667
+6072-YUBLX,,Male,1,1,0,61,1,1,Fiber optic,0,1,1,1,1,0,One year,1,Mailed check,98.3,6066.55,3.2766666666666664
+6167-SYRNG,,Male,1,1,0,59,0,0,DSL,1,0,1,1,1,1,Two year,1,Credit card (automatic),64.05,3886.85,2.135
+6225-VNQSJ,,Male,0,0,0,1,0,0,DSL,0,0,0,0,0,1,Month-to-month,1,Electronic check,35.45,35.45,1.1816666666666669
+6271-PRTUU,,Female,0,1,1,28,1,0,No,0,0,0,0,0,0,Month-to-month,1,Bank transfer (automatic),19.55,543.8,0.6516666666666667
+6272-HWGNQ,,Female,0,0,0,1,1,1,Fiber optic,0,0,0,0,0,1,Month-to-month,1,Electronic check,85.0,85.0,2.8333333333333335
+6303-APKJD,,Male,1,1,0,57,1,1,Fiber optic,0,1,0,0,0,1,Month-to-month,1,Electronic check,89.85,4925.35,2.9949999999999997
+6319-ZXCPZ,,Male,0,1,0,60,1,1,Fiber optic,0,1,1,0,1,0,Month-to-month,1,Electronic check,95.75,5742.9,3.191666666666667
+6381-LOPCO,,Male,0,0,0,1,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,69.8,69.8,2.3266666666666667
+6385-MVEPL,,Male,0,1,1,64,1,0,DSL,1,0,1,1,1,0,Two year,0,Mailed check,69.25,4447.75,2.308333333333333
+6463-CCMII,,Male,0,0,0,34,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,19.7,675.6,0.6566666666666666
+6507-MIKMI,,Female,0,0,0,41,1,1,Fiber optic,0,1,1,0,1,1,Month-to-month,1,Electronic check,106.3,4443.45,3.5433333333333334
+6508-TFQQW,,Male,1,1,0,1,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,70.3,70.3,2.3433333333333333
+6519-JNHOZ,,Female,0,1,0,48,1,0,DSL,0,1,1,0,0,1,One year,1,Electronic check,65.65,3094.65,2.1883333333333335
+6532-YOHZY,,Male,0,1,1,45,1,1,Fiber optic,0,1,1,1,1,1,Two year,1,Bank transfer (automatic),109.75,4900.65,3.658333333333333
+6547-ETRKK,,Female,0,1,0,53,1,0,No,0,0,0,0,0,0,One year,0,Bank transfer (automatic),20.8,1021.8,0.6933333333333334
+6554-ONRKJ,,Male,0,0,1,39,0,0,DSL,0,0,1,1,1,1,One year,0,Bank transfer (automatic),54.85,2191.7,1.8283333333333334
+6648-RXFRG,,Male,0,0,0,7,1,1,Fiber optic,0,0,0,0,0,1,Month-to-month,1,Electronic check,86.8,620.35,2.893333333333333
+6724-JVHVX,,Male,0,0,1,9,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,20.4,184.1,0.6799999999999999
+6736-DRVEW,,Female,1,0,0,33,1,1,Fiber optic,0,1,1,1,1,1,Month-to-month,1,Electronic check,110.45,3655.45,3.6816666666666666
+6750-FCEKS,,Male,0,0,0,2,0,0,DSL,0,0,0,1,0,0,Month-to-month,0,Bank transfer (automatic),29.85,75.6,0.995
+6807-HWZBE,,Male,0,1,0,2,1,1,Fiber optic,0,0,1,0,1,0,Month-to-month,1,Electronic check,91.45,171.45,3.0483333333333333
+6820-THWHI,,Female,1,1,0,72,1,1,No,0,0,0,0,0,0,Two year,0,Bank transfer (automatic),24.3,1778.7,0.81
+6831-CJPWG,,Male,0,1,0,54,1,1,Fiber optic,1,1,1,0,1,1,Month-to-month,0,Electronic check,109.55,6118.95,3.6516666666666664
+6840-YEOYJ,,Male,0,0,1,53,1,0,DSL,1,1,0,1,0,0,One year,0,Credit card (automatic),62.85,3419.5,2.095
+6895-ZJKIO,,Female,0,0,0,1,1,0,No,0,0,0,0,0,0,Month-to-month,0,Bank transfer (automatic),19.9,19.9,0.6633333333333333
+7026-TPCZX,,Male,0,1,1,69,1,0,Fiber optic,1,1,0,1,1,1,Two year,1,Credit card (automatic),106.35,7261.75,3.545
+7069-PURBI,,Female,0,1,0,14,1,0,No,0,0,0,0,0,0,Two year,0,Mailed check,20.4,292.4,0.6799999999999999
+7115-SIPGA,,Male,0,0,1,69,1,1,DSL,1,1,1,1,1,0,Two year,1,Credit card (automatic),79.45,5502.55,2.6483333333333334
+7117-EVURU,,Male,0,0,0,39,0,0,DSL,1,1,0,1,1,0,Month-to-month,1,Credit card (automatic),48.95,1880.85,1.6316666666666668
+7132-EASOG,,Male,0,1,1,7,1,0,No,0,0,0,0,0,0,One year,0,Mailed check,20.65,150.0,0.6883333333333332
+7165-CNJFG,,Male,1,1,0,35,1,1,Fiber optic,1,1,0,0,0,1,Month-to-month,1,Electronic check,94.55,3365.4,3.1516666666666664
+7278-VXADF,,Male,1,1,0,16,1,1,Fiber optic,0,0,0,0,1,0,Month-to-month,1,Credit card (automatic),85.05,1391.15,2.835
+7295-EXSMO,,Female,1,0,0,3,1,0,Fiber optic,0,0,1,0,0,0,Month-to-month,0,Mailed check,75.05,202.9,2.5016666666666665
+7305-PAPOZ,,Female,1,1,0,31,1,1,Fiber optic,0,0,0,0,0,1,Month-to-month,1,Electronic check,84.85,2633.4,2.828333333333333
+7340-EBEMV,,Male,0,1,0,29,1,1,Fiber optic,0,1,0,0,0,0,Month-to-month,1,Bank transfer (automatic),80.15,2265.25,2.671666666666667
+7372-IVBIM,,Male,0,1,1,4,1,0,DSL,0,0,0,1,0,1,Month-to-month,0,Credit card (automatic),61.45,229.55,2.0483333333333333
+7432-XWSQO,,Female,0,1,0,71,1,1,DSL,1,1,1,1,1,1,Two year,0,Electronic check,90.1,6310.9,3.003333333333333
+7455-SDALK,,Male,0,1,1,29,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,70.75,1974.8,2.3583333333333334
+7491-UYKGO,,Female,1,0,0,53,1,0,Fiber optic,1,1,0,1,0,1,One year,1,Mailed check,96.75,5206.55,3.225
+7586-NHQEA,,Female,0,0,0,10,0,0,DSL,0,0,0,1,0,0,Two year,1,Mailed check,29.6,299.05,0.9866666666666667
+7606-GWMKE,,Male,0,0,1,21,1,1,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,24.7,467.15,0.8233333333333334
+7637-IKUJQ,,Male,0,1,0,57,1,1,Fiber optic,1,1,1,1,1,0,Month-to-month,1,Electronic check,103.05,5925.75,3.435
+7662-TWISV,,Female,0,0,1,51,0,0,DSL,1,0,1,1,1,1,One year,0,Bank transfer (automatic),60.15,3077.0,2.005
+7709-FQREH,,Female,0,1,0,18,1,1,Fiber optic,0,0,0,1,1,0,Month-to-month,1,Electronic check,88.85,1594.75,2.9616666666666664
+7766-CVTAF,,Male,0,1,1,43,1,1,No,0,0,0,0,0,0,Two year,0,Mailed check,24.25,1077.95,0.8083333333333333
+7808-NBWYW,,Female,1,1,0,3,1,0,Fiber optic,0,0,0,0,1,0,Month-to-month,1,Electronic check,80.4,224.05,2.68
+7846-AXWOM,,Female,0,1,1,69,0,0,DSL,1,0,1,0,0,1,Two year,1,Credit card (automatic),43.95,2960.1,1.465
+7968-BCBQB,,Female,0,0,0,3,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,0,Bank transfer (automatic),74.4,215.8,2.48
+7979-YHUFG,,Male,0,0,0,8,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Mailed check,70.1,551.35,2.3366666666666664
+8029-GAHZZ,,Female,1,1,0,71,1,0,Fiber optic,1,1,1,1,1,1,Two year,1,Bank transfer (automatic),109.7,7904.25,3.6566666666666667
+8212-FSQIV,,Male,0,0,1,1,1,0,No,0,0,0,0,0,0,Month-to-month,1,Mailed check,20.25,20.25,0.675
+8256-ERHVS,,Male,0,0,0,9,1,0,DSL,1,0,1,1,0,1,Month-to-month,1,Bank transfer (automatic),68.25,576.95,2.275
+8256-TWSNM,,Male,0,1,1,6,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,69.8,377.85,2.3266666666666667
+8289-DXCFQ,,Female,0,0,0,1,1,1,DSL,0,0,0,0,0,0,Month-to-month,1,Mailed check,50.1,50.1,1.6700000000000002
+8353-CFNVI,,Male,0,0,0,43,1,1,Fiber optic,0,0,0,1,1,1,One year,1,Electronic check,100.0,4211.55,3.3333333333333335
+8386-OSYMC,,Female,0,1,1,58,1,1,Fiber optic,0,1,1,0,1,1,One year,1,Credit card (automatic),105.2,6225.4,3.506666666666667
+8530-KXSOX,,Male,0,1,0,68,1,1,No,0,0,0,0,0,0,Two year,0,Bank transfer (automatic),25.25,1728.2,0.8416666666666667
+8649-VYTUC,,Male,0,0,0,24,1,0,Fiber optic,0,0,0,0,1,1,Month-to-month,1,Electronic check,90.35,2238.5,3.0116666666666663
+8732-BBLMG,,Female,0,0,0,5,0,0,DSL,0,1,0,0,1,1,Month-to-month,1,Credit card (automatic),50.95,229.4,1.6983333333333335
+8754-GZCEH,,Female,0,1,0,25,1,0,Fiber optic,0,0,0,1,1,1,Month-to-month,1,Electronic check,95.15,2395.7,3.171666666666667
+8774-QWEBD,,Male,0,1,1,40,1,0,No,0,0,0,0,0,0,Month-to-month,1,Bank transfer (automatic),20.4,745.3,0.6799999999999999
+8793-IZZRV,,Male,0,0,0,4,0,0,DSL,0,0,0,0,1,1,Month-to-month,1,Electronic check,44.55,174.3,1.4849999999999999
+8920-VTVET,,Female,0,0,0,68,1,0,No,0,0,0,0,0,0,Two year,0,Bank transfer (automatic),20.05,1386.9,0.6683333333333333
+8933-FSHGW,,Female,1,1,0,25,1,0,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,69.3,1813.1,2.31
+8937-FVBIE,,Male,0,1,0,67,1,0,Fiber optic,1,1,0,0,0,1,One year,1,Credit card (automatic),90.6,6056.15,3.02
+8939-ORHIW,,Male,0,1,1,34,0,0,DSL,0,0,1,1,1,0,Month-to-month,1,Electronic check,44.85,1442.6,1.495
+8954-HKVWG,,Female,0,1,0,2,1,0,DSL,0,0,0,0,0,0,Month-to-month,1,Credit card (automatic),44.6,80.55,1.4866666666666668
+8977-NIXDF,,Male,0,1,1,9,1,0,No,0,0,0,0,0,0,Two year,0,Mailed check,19.6,197.4,0.6533333333333334
+9078-GDRPJ,,Female,0,1,1,63,1,1,Fiber optic,1,1,1,0,1,0,Month-to-month,1,Electronic check,100.55,6215.35,3.3516666666666666
+9162-MVWXH,,Male,0,0,0,1,1,0,DSL,0,0,0,0,0,0,Month-to-month,1,Mailed check,45.7,45.7,1.5233333333333334
+9182-EFTQG,,Female,0,1,1,41,1,1,DSL,1,1,1,0,1,0,One year,1,Credit card (automatic),78.35,3211.2,2.6116666666666664
+9218-TUMIQ,,Female,0,1,1,62,1,0,Fiber optic,0,1,1,0,1,1,Month-to-month,1,Electronic check,100.15,6283.3,3.3383333333333334
+9228-KNQVN,,Female,0,1,0,59,1,1,Fiber optic,1,1,1,1,0,1,One year,1,Credit card (automatic),107.0,6152.3,3.566666666666667
+9239-YGYBO,,Female,0,1,1,13,1,0,DSL,1,0,0,1,0,0,One year,0,Bank transfer (automatic),54.15,701.05,1.805
+9243-TUYBL,,Male,1,1,0,28,1,1,Fiber optic,0,1,0,1,1,1,Month-to-month,1,Electronic check,105.8,2998.0,3.5266666666666664
+9364-HVJRK,,Male,0,0,0,8,1,0,DSL,0,0,0,0,0,0,Month-to-month,1,Mailed check,45.15,438.4,1.505
+9366-PGOCJ,,Male,0,0,0,57,1,0,DSL,0,1,0,1,0,0,One year,1,Mailed check,54.65,3134.7,1.8216666666666665
+9371-CLMGW,,Female,0,0,0,6,1,0,Fiber optic,0,0,0,0,1,1,Month-to-month,0,Electronic check,89.3,577.6,2.9766666666666666
+9395-RFMFG,,Male,0,1,1,8,1,0,DSL,0,0,0,0,1,0,Month-to-month,1,Electronic check,54.4,475.1,1.8133333333333332
+9456-ETVCM,,Male,0,0,0,12,1,1,Fiber optic,0,0,0,0,1,1,Month-to-month,0,Electronic check,94.55,1173.55,3.1516666666666664
+9477-UIFFV,,Male,0,0,0,1,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,20.3,20.3,0.6766666666666666
+9499-EBKUR,,Male,0,0,0,72,1,1,DSL,1,0,1,1,1,1,Two year,0,Credit card (automatic),84.3,5997.1,2.81
+9525-DKUVP,,Female,1,1,0,72,1,1,Fiber optic,0,1,1,1,1,1,Two year,1,Credit card (automatic),110.8,7882.25,3.6933333333333334
+9526-MJRPO,,Female,1,1,0,27,1,1,Fiber optic,1,0,0,1,1,1,Month-to-month,1,Bank transfer (automatic),104.3,2867.75,3.4766666666666666
+9617-SHSHO,,Female,0,0,0,53,1,0,Fiber optic,0,1,1,1,0,1,One year,1,Credit card (automatic),94.45,5042.75,3.1483333333333334
+9640-HXEAM,,Male,0,0,0,2,0,0,DSL,0,1,1,1,0,0,Month-to-month,1,Credit card (automatic),40.4,77.15,1.3466666666666667
+9646-QWDSB,,Female,0,1,1,71,1,1,Fiber optic,1,0,1,1,0,1,Two year,0,Electronic check,100.45,7159.7,3.3483333333333336
+9659-UDJIJ,,Female,0,1,0,67,1,1,DSL,1,1,1,0,0,0,Two year,0,Mailed check,65.65,4322.85,2.1883333333333335
+9683-PSOSX,,Female,0,0,0,1,1,0,No,0,0,0,0,0,0,Month-to-month,1,Mailed check,19.55,19.55,0.6516666666666667
+9708-TKNTZ,,Female,0,1,1,6,1,0,No,0,0,0,0,0,0,One year,0,Mailed check,19.7,94.45,0.6566666666666666
+9717-WXVSB,,Male,0,0,0,1,1,0,No,0,0,0,0,0,0,Month-to-month,0,Mailed check,18.9,18.9,0.63
+9722-ZVQUQ,,Female,0,1,1,14,1,0,Fiber optic,0,0,0,0,0,1,Month-to-month,1,Bank transfer (automatic),80.9,1152.8,2.6966666666666668
+9724-BFUOP,,Female,0,0,0,8,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Credit card (automatic),74.6,548.9,2.4866666666666664
+9825-GXXPV,,Male,0,1,1,59,1,0,No,0,0,0,0,0,0,Two year,0,Mailed check,19.5,1147.85,0.65
+9839-SEMQN,,Male,0,1,1,5,1,1,DSL,1,1,0,1,0,0,Month-to-month,0,Credit card (automatic),64.4,316.9,2.146666666666667
+9840-GSRFX,,Female,0,0,0,14,1,1,DSL,0,1,0,0,0,0,One year,1,Mailed check,54.25,773.2,1.8083333333333333
+9872-RZQQB,,Female,0,1,0,49,0,0,DSL,1,0,0,0,1,0,Month-to-month,0,Bank transfer (automatic),40.65,2070.75,1.355
+9920-GNDMB,,Male,0,0,0,9,1,1,Fiber optic,0,0,0,0,0,0,Month-to-month,1,Electronic check,76.25,684.85,2.5416666666666665
+9955-RVWSC,,Female,0,1,1,67,1,0,No,0,0,0,0,0,0,Two year,1,Bank transfer (automatic),19.25,1372.9,0.6416666666666667
+9966-VYRTZ,,Female,0,1,1,31,1,0,No,0,0,0,0,0,0,Month-to-month,1,Mailed check,19.55,658.95,0.6516666666666667
