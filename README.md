@@ -45,7 +45,7 @@ Usando **Python**, **Pandas** y **Matplotlib**, procesamos datos de clientes, ge
 |                      | `telecom_df_full.csv` | Dataset completo con 34 columnas (originales + binarias). |
 | `notebooks/` | `01_data_extraction.ipynb` | Extracción y carga inicial de datos desde la API. |
 |               | `02_data_cleaning.ipynb` | Limpieza, transformación y creación de variables derivadas. |
-|               | `03_data_analysis.ipynb` | Análisis exploratorio (EDA) con métricas y visualizaciones. |
+|               | `03_data_analysis.ipynb` | Análisis exploratorio (EDA) con métricas y visualizaciones e **Informe Final** |
 | `src/graficos/` | `*.png / *.html` | Gráficos estáticos e interactivos del análisis. |
 | `requirements.txt` | Dependencias del proyecto | Incluye pandas, matplotlib, seaborn, plotly. |
 | `README.md` | Documentación del proyecto | Este archivo. |
@@ -149,6 +149,10 @@ Durante el análisis exploratorio se generaron **visualizaciones clave** para en
 5. **Datos de entrada/salida**:
     - Entrada: `data/raw/telecomx_raw.json` (7267 clientes).
     - Salida: Datasets procesados en `data/processed/` y gráficos en `src/graficos/`.
+
+**❗ Asegúrese de leer esto.**
+
+> 💡 **Recordatorio: El archivo `03_data_analysys.ipynb` no es solo un script; incluye informe final interactivo que contiene toda la documentación y las conclusiones detalladas. Este README solo contiene un resumen.**
 
 ---
 
